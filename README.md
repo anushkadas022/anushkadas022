@@ -99,6 +99,6 @@ using rigorous quantitative methods.
          alt="Stata" width="50" height="50"/>
   </a>
 </p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anushkadas022&" alt="anushkadas022" /></p>
-</p>
+<!-- <div align="center"> -->
+<p><img  align="space-between" src="https://github-readme-streak-stats.herokuapp.com/?user=anushkadas022&" alt="anushkadas022" /> 
+<!-- </div> -->
