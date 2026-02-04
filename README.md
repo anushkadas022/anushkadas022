@@ -63,7 +63,7 @@ using rigorous quantitative methods.
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<p align="left" >
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
          alt="MySQL" width="50" height="50"/>
@@ -99,6 +99,6 @@ using rigorous quantitative methods.
          alt="Stata" width="50" height="50"/>
   </a>
 </p>
- <div align="center"> 
+
 <p><img  align="space-between" src="https://github-readme-streak-stats.herokuapp.com/?user=anushkadas022&" alt="anushkadas022" /> 
- </div> 
+ 
