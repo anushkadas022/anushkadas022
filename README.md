@@ -29,7 +29,9 @@ using rigorous quantitative methods.
 <ul>
   <li>Research Analyst</li>
   <li>Data Analyst</li>
-  <li>Policy Analyst</li>
+  <li>Business Analyst</li>
+    <li>policy Analyst</li>
+
 </ul>
 
 <h2>💬 Let's Collaborate!</h2>
